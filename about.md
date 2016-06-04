@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Web developer, mobile developer, and pen-tester. 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Online Resume: [https://www.cs.utexas.edu/~sniper/](here)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[contactmeonlyforwork@gmail.com](mailto:contactmeonlyforwork@gmail.com)
