@@ -8,7 +8,7 @@ Web developer, mobile developer, and pen-tester.
 
 ### More Information
 
-Online Resume: [https://www.cs.utexas.edu/~sniper/](here)
+Online Resume: [here](https://www.cs.utexas.edu/~sniper/)
 
 ### Contact me
 
