@@ -15,4 +15,5 @@ Preparing for this week is on my way, I read all the material before hand, I beg
 Next week, I will finish my project and tomorrow begin the new one, which is supposed to be a team assignment. It will be interesting to see how others collaborate with github. I am looking forward to work with my team. Moreover, I will make sure to finish all the new readings for this week. 
 
 **Tip-of-the-week**
+
 Lastly, for the tip of the week, I learned about several competitive programming websites such as [code force](http://codeforces.com) and sphere. I will take on a coding challenge per day at least, to polish my coding skills. I highly recommend any computer science students to practice coding problems. 
