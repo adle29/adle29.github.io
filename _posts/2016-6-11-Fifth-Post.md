@@ -3,6 +3,8 @@ layout: post
 title: cs373-idb
 ---
 
+Summary: Talked about the third project, classes, and setting up infrastructure. 
+
 **What did you do this past week?**
 
 These past weeks I worked with my team on the IDB project. We setup up a github repository, added issues, made an account on digital ocean, and started rolling the production of our site. We had to find an API which provided the data for our web-app. It was really interesting building the infrastructure for the unit tests, routes, the database schemas, and the whole front-end. We divided the work by assigning members to work on the models, the wiki, the unit tests, and server/website. 
