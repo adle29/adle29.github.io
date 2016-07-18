@@ -15,7 +15,7 @@ I am taking the Compilers class which I heard is the third hardest class at UT. 
 
 **What will I do next week?**
 
-Next week, we will populate the website, make the unit tests run directly from the website, and make the website prettier. I am working on connecting the database to the server and making the basic skeleton of a script that populates the database.  
+Next week, we will populate the website with even more seasons, add more  unit tests that run directly from the website, and make the website prettier. I am finishing the search functions of the website. Connecting the server and database was a very interesting assignment. 
 
 **Tip-of-the-week**
 
